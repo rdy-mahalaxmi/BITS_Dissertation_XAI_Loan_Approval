@@ -1,0 +1,14 @@
+# Large datasets
+data/train_processed.csv
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
