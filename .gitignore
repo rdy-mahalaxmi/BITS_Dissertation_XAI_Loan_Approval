@@ -1,5 +1,5 @@
 # Large datasets
-data/train_processed.csv
+data/
 
 # Trained models
 models/*.pkl
