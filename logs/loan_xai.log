@@ -177,3 +177,11 @@
 2026-08-11 08:56:56,193 - INFO - Dataset loaded successfully.
 2026-08-11 08:57:16,414 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2026-08-11 08:57:16,672 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-11 09:34:56,152 - INFO - Dataset loaded successfully.
+2026-08-11 09:34:56,158 - INFO - Dataset summary generated.
+2026-08-11 09:34:57,447 - INFO - Statistical summary generated.
+2026-08-11 09:34:57,909 - INFO - Dataset profile exported.
+2026-08-11 09:34:58,744 - INFO - Dataset loaded successfully.
+2026-08-11 09:35:06,406 - INFO - Dataset loaded successfully.
+2026-08-11 09:35:26,849 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-11 09:35:27,102 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

@@ -1,6 +1,6 @@
-# Large datasets
+# Large datasets & logs
 data/
-
+logs/
 # Trained models
 models/*.pkl
 models/*.joblib
