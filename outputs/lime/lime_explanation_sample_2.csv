@@ -1,0 +1,16 @@
+Feature_Condition,LIME_Weight,Sample_Index,Data_Index,Predicted_Class,Approval_Prob
+InterestRate > 19.25,-0.07194503008728753,2,2,Approved,76.2%
+MonthsEmployed <= 30.00,-0.05915027486344598,2,2,Approved,76.2%
+43.00 < Age <= 56.00,0.03804766947269737,2,2,Approved,76.2%
+Self_Employed=Unemployed,-0.027989876279904534,2,2,Approved,76.2%
+82466.00 < ApplicantIncome <= 116219.00,0.025532353910167213,2,2,Approved,76.2%
+HasCoSigner=No,-0.02175189163044823,2,2,Approved,76.2%
+Dependents=Yes,0.018626015671209473,2,2,Approved,76.2%
+Married=Divorced,-0.016892488455804263,2,2,Approved,76.2%
+HasMortgage=Yes,0.013017584007111482,2,2,Approved,76.2%
+127556.00 < LoanAmount <= 188985.00,-0.011352760708035588,2,2,Approved,76.2%
+437.00 < Credit_History <= 574.00,-0.00770004832519706,2,2,Approved,76.2%
+Education=Master's,0.004028798400055515,2,2,Approved,76.2%
+2.00 < NumCreditLines <= 3.00,-0.003621006803201496,2,2,Approved,76.2%
+Loan_Amount_Term <= 24.00,-0.0027175104164664297,2,2,Approved,76.2%
+LoanPurpose=Auto,0.00098951235552896,2,2,Approved,76.2%

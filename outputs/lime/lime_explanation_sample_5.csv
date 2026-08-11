@@ -1,0 +1,16 @@
+Feature_Condition,LIME_Weight,Sample_Index,Data_Index,Predicted_Class,Approval_Prob
+Age <= 31.00,0.1033493294043325,5,143,Rejected,48.8%
+InterestRate > 19.25,0.07738906641794892,5,143,Rejected,48.8%
+ApplicantIncome <= 48825.50,0.06567245409787359,5,143,Rejected,48.8%
+MonthsEmployed > 90.00,-0.048361956047017395,5,143,Rejected,48.8%
+LoanAmount > 188985.00,0.04763127476852081,5,143,Rejected,48.8%
+Self_Employed=Full-time,-0.024878722228382964,5,143,Rejected,48.8%
+HasCoSigner=Yes,-0.023432293385090324,5,143,Rejected,48.8%
+Dependents=Yes,-0.02206063224491487,5,143,Rejected,48.8%
+Education=High School,0.01943766788187808,5,143,Rejected,48.8%
+NumCreditLines <= 2.00,-0.01887328976122418,5,143,Rejected,48.8%
+Credit_History <= 437.00,0.016521196663109427,5,143,Rejected,48.8%
+DTIRatio <= 0.30,-0.014314721888660103,5,143,Rejected,48.8%
+HasMortgage=Yes,-0.01359610857572784,5,143,Rejected,48.8%
+Married=Single,0.007893193822854881,5,143,Rejected,48.8%
+LoanPurpose=Business,0.007852272885073326,5,143,Rejected,48.8%

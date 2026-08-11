@@ -1,0 +1,21 @@
+Age,ApplicantIncome,LoanAmount,Credit_History,MonthsEmployed,NumCreditLines,InterestRate,Loan_Amount_Term,DTIRatio,Education,Self_Employed,Married,HasMortgage,Dependents,LoanPurpose,HasCoSigner,Loan_Status
+56,85994,50587,520,80,4,15.23,36,0.44,Bachelor's,Full-time,Divorced,Yes,Yes,Other,Yes,Y
+69,50432,124440,458,15,1,4.81,60,0.68,Master's,Full-time,Married,No,No,Other,Yes,Y
+46,84208,129188,451,26,3,21.17,24,0.31,Master's,Unemployed,Divorced,Yes,Yes,Auto,No,N
+32,31713,44799,743,0,3,7.07,24,0.23,High School,Full-time,Married,No,No,Business,No,Y
+60,20437,9139,633,8,4,6.51,48,0.73,Bachelor's,Unemployed,Divorced,No,Yes,Auto,No,Y
+25,90298,90448,720,18,2,22.72,24,0.1,High School,Unemployed,Single,Yes,No,Business,Yes,N
+38,111188,177025,429,80,1,19.11,12,0.16,Bachelor's,Unemployed,Single,Yes,No,Home,Yes,Y
+56,126802,155511,531,67,4,8.15,60,0.43,PhD,Full-time,Married,No,No,Home,Yes,Y
+36,42053,92357,827,83,1,23.94,48,0.2,Bachelor's,Self-employed,Divorced,Yes,No,Education,No,N
+40,132784,228510,480,114,4,9.09,48,0.33,High School,Self-employed,Married,Yes,No,Other,Yes,Y
+28,140466,163781,652,94,2,9.08,48,0.23,High School,Unemployed,Married,No,No,Education,No,Y
+28,149227,139759,375,56,3,5.84,36,0.8,PhD,Full-time,Divorced,No,No,Education,Yes,N
+41,23265,63527,829,87,4,9.73,60,0.45,Master's,Full-time,Divorced,Yes,No,Auto,Yes,Y
+53,117550,95744,395,112,4,3.58,24,0.73,High School,Unemployed,Single,No,No,Auto,Yes,Y
+57,139699,88143,635,112,4,5.63,48,0.2,Master's,Part-time,Divorced,No,No,Home,No,Y
+41,74064,230883,432,31,2,5.0,60,0.89,Master's,Unemployed,Married,Yes,No,Auto,No,Y
+20,119704,25697,313,49,1,9.63,24,0.28,PhD,Unemployed,Single,Yes,No,Home,No,Y
+39,33015,10889,811,106,2,13.56,60,0.66,Master's,Self-employed,Single,Yes,No,Other,No,Y
+19,40718,78515,319,119,2,14.0,24,0.17,Bachelor's,Self-employed,Divorced,Yes,No,Education,No,N
+41,123419,161146,376,65,4,16.96,60,0.39,High School,Self-employed,Single,Yes,No,Other,Yes,Y
